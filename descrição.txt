@@ -1,0 +1,7 @@
+1- Algoritmo do produtor e consumidor, utilizando dois processos, usando threads, forks ou processos disjuntos.
+
+2- Algoritmo dos filósofos com deadlock usando threads. deadlock é quando se tem um impasse 
+
+3- Algoritmo dos filósofos com livelock usando threads. livelock é quando duas threads tentam acessar a mesma variavel mas nenhuma consegue ai entra em sleep e uando retorna da o mesmo 
+
+4- Algoritmo dos filósofos com funcionando usando threads.
