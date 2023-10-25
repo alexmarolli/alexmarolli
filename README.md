@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @alexmarolli
-Estou interessado em aprender desenvolvimento web,
-estou aprendendo tecnologias front-end 
-interessado em participar de projetos diversos
+# A amostra do aprendizado, a pratica leva a perfeição
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmarolli_icons=true&theme=transparent)
