@@ -1,4 +1,4 @@
-# EM BUSCA DE EVOLUIR!
+# Treinando conhecimentos mas sem experiência profissional, chega de enrolação, bora pro código 
 <br>
 <br>
 
